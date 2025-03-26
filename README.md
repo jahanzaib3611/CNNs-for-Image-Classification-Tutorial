@@ -1,4 +1,4 @@
-# CNN Tutorial for Butterfly Image Classification
+# CNN Tutorial for Image Classification
 
 This repository contains a comprehensive tutorial on Convolutional Neural Networks (CNNs) for image classification using a unique Butterfly Species Classification dataset. The tutorial is structured as a Jupyter Notebook and covers:
 
@@ -12,6 +12,7 @@ This repository contains a comprehensive tutorial on Convolutional Neural Networ
 
 - **CNN_Tutorial.ipynb**: The Jupyter Notebook containing code, detailed explanations, and plots.
 - **data/**: Directory containing the Butterfly Species Classification dataset organized into `train` and `validation` folders.
+- **CNNs for Image Classification.pdf**: Document containing tutorial.
 - **README.md**: This file.
 - **LICENSE**: The license file for this project.
 
@@ -20,4 +21,4 @@ This repository contains a comprehensive tutorial on Convolutional Neural Networ
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/jahanzaib3611/CNNs-for-Image-Classification-Tutorial.git
-   cd CNN_Tutorial
+   cd CNNs-for-Image-Classification-Tutorial
